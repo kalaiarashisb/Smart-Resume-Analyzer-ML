@@ -1,8 +1,8 @@
-# 💼 Smart Resume Analyzer and Job Match AI using Machine Learning
+# 💼 Smart Resume Analyzer using Machine Learning
 
 ## 📌 Project Overview
 
-Smart Resume Analyzer and Job Match AI is a Machine Learning and Natural Language Processing (NLP) based project developed to automate resume screening and predict resume-job compatibility scores.
+Smart Resume Analyzer is a Machine Learning and Natural Language Processing (NLP) based project developed to automate resume screening and predict resume-job compatibility scores.
 
 The system analyzes candidate resumes, compares skills with job requirements, and predicts matching scores using Machine Learning algorithms. This project demonstrates the integration of NLP preprocessing, TF-IDF vectorization, Exploratory Data Analysis (EDA), and Random Forest Regression for intelligent recruitment analysis.
 
